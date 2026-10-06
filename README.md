@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# BugFlow: Software Issue Tracking & Resolution Platform
 ## Enterprise Defect Lifecycle, AI Triage & Agile Sprint Engine
 
@@ -92,3 +93,6 @@ pytest tests/ -v
 | `dkim` | `password123` | `DEVELOPER` | DevOps & Cloud | Senior |
 | `asmith` | `password123` | `QA_TESTER` | Quality Assurance | Senior |
 | `ppatel` | `password123` | `PROJECT_MANAGER` | Product & Agile | Lead |
+=======
+# bugflow
+>>>>>>> 60a9b722ae930f307f2e09d0bcb4731b23689358
